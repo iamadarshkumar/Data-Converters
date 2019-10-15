@@ -1,3 +1,8 @@
+#########################################################################
+#               A Glossary of all data converters.                      #
+#                   Feel free to contribute                             #
+#########################################################################
+
 import xlrd
 import unicodecsv
 import os
