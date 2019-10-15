@@ -13,6 +13,6 @@ Usage: python3 converter_main.py <argument1> <argument2> <argument3> <argument4>
 <ul>
   <li>For passing directory paths containing spaces, wrap them with double quotes. Ex. "My Directory"</li>
   <li>Use Python 3</li>
-<ul>
+</ul>
 
 Feel free to contribute by adding more data converters in the file: <b>converters.py</b>
